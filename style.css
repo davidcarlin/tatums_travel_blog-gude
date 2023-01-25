@@ -1,0 +1,29 @@
+* {
+    font-family: Arial;
+}
+
+h1, h3 {
+    font-family: geneva;
+}
+
+body {
+    background-color: white;
+}
+
+article {
+    background-image: linear-gradient(silver, white);
+}
+
+header {
+    background-image: url(https:www.google.com/url?sa=i&url=https%3A%2F%2Fwww.dreamstime.com%2Fstock-photo-korea-panorama-seoul-city-skyline-south-korea-image72241987&psig=AOvVaw1JOpYEc1EOu2hVqs1iQTpc&ust=1674760791310000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCLD6lKK44_wCFQAAAAAdAAAAABAE);
+    background-size: cover;
+    color: blue;
+}
+
+/* link styles */
+
+a {
+    color: blue;
+    text-decoration: none;
+}
+
