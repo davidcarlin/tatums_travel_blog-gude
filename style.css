@@ -7,17 +7,24 @@ h1, h3 {
 }
 
 body {
-    background-color: white;
+    background-color: black;
 }
 
 article {
     background-image: linear-gradient(silver, white);
+    border-radius: 0.75em;
+    padding: 10%;
+    box-shadow: 10% black;
 }
 
 header {
-    background-image: url(https:www.google.com/url?sa=i&url=https%3A%2F%2Fwww.dreamstime.com%2Fstock-photo-korea-panorama-seoul-city-skyline-south-korea-image72241987&psig=AOvVaw1JOpYEc1EOu2hVqs1iQTpc&ust=1674760791310000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCLD6lKK44_wCFQAAAAAdAAAAABAE);
+    background-image: url('16275799968_3d6096a7dc_b.jpeg');
     background-size: cover;
-    color: blue;
+    color: white;
+    text-align: center;
+    border-radius: 0.75em;
+    padding: 25%;
+    box-shadow: 10% black;
 }
 
 /* link styles */
@@ -27,3 +34,14 @@ a {
     text-decoration: none;
 }
 
+img {
+    display: block;
+    height: 20%;
+    border: black;
+    border-radius: 0.75em;
+    box-shadow: 10% black;
+}
+
+.subheading {
+    border-bottom: solid 5px black;
+}
